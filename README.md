@@ -1,5 +1,5 @@
 ## Olá, seja bem vindo ao meu Github
-Prazer me chamo Thiago Valença mas comumente conhecido como Tvalenca ou Tv, sou graduado em Ciência da computação e estou neste mundo da programação faz poucos anos. Desde então estou adorando aprender novas ferramentas e metodologias, principalmente com meus projetos pessoais para solucionar tarefas.
+Prazer me chamo Thiago Valença mas comumente conhecido como Tvalenca ou Tv, sou graduado em Ciência da Computação e estou neste mundo da programação faz poucos anos. Desde então estou adorando aprender novas ferramentas e metodologias, principalmente com meus projetos pessoais para solucionar tarefas.
 
 ## :desktop_computer: Tecnologias e Ferramentas
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" width="40" height="40"/>
