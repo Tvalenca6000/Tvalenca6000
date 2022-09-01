@@ -19,7 +19,7 @@ Prazer me chamo Thiago Valença mas comumente conhecido como Tvalenca ou Tv, sou
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40"/>
 
-:abacus: Durante meu período acadêmico tive contato com algumas linguagens como Java, C, C++, Python e R. A partir deles aprendi e continuo aprendendo outras ferramentas ou linguagens que complementam e aprofundam meu conhecimento na área de tecnologia. Atualmente estou voltando no desenvolvimento Full stack e automação RPA.
+:abacus: Durante meu período acadêmico tive contato com algumas linguagens como Java, C, C++, Python e R. A partir deles aprendi e continuo aprendendo outras ferramentas ou linguagens que complementam e aprofundam meu conhecimento na área de tecnologia. Atualmente estou voltando no desenvolvimento Full stack e RPA.
 
 :video_game: Curto bastante videogames em geral, até perdi a conta de quantos jogos conheço ou já joguei. Tenho bastante interesse em entender o que a obra quis trazer em cada detalhe implementado nas funcionalidades do jogo, isto inclui os bugs também :zipper_mouth_face:. Como se já deve imaginar acompanho também o mundo de speedrun e vejo conteúdo relacionado a acontecimentos históricos.
 
